@@ -1,0 +1,29 @@
+
+// Essentials
+choco install googlechrome
+choco install 7zip.install
+choco install calibre
+choco install slack
+choco install vlc
+
+// Dev tools
+choco install git.install
+choco install notepadplusplus.install
+choco install nodejs.install
+WSLTTY: Better terminal for windows linux subsystems.
+choco install wsltty
+choco upgrade wsltty
+choco install vscode
+
+choco install intellijidea-community
+choco install mysql.workbench
+
+// Runtimes
+choco install jre8
+choco install dotnetcore-sdk
+choco install maven
+
+// Access Linux/Other systems.
+choco install putty.install
+choco install filezilla
+choco install winscp.install
