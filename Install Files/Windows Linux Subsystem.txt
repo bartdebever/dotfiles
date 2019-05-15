@@ -22,6 +22,11 @@ sudo apt-add-repository ppa:fish-shell/release-3
 sudo apt-get update
 sudo apt-get install fish
 
+// Install Oh My Fish
+curl -L https://get.oh-my.fish | fish
+
+omf install bobthefish
+
 // Node JS + Angular
 sudo apt-get install nodejs
 sudo apt-get install npm
