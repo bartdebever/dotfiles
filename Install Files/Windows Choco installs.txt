@@ -19,9 +19,9 @@ choco install intellijidea-community
 choco install mysql.workbench
 
 // Runtimes
-choco install jre8
 choco install dotnetcore-sdk
 choco install maven
+choco install jdk11
 
 // Access Linux/Other systems.
 choco install putty.install
