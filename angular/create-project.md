@@ -8,7 +8,7 @@ ng new PROJECT-NAME --style=scss
 ## Angular Material
 
 ```
-npm install --save @ng-bootstrap/ng-bootstrap
+npm install --save @angular/material @angular/cdk @angular/animations
 ```
 
 Follow the instructions [for Material Angular](https://material.angular.io/guide/getting-started#step-2-configure-animations).
